@@ -4,6 +4,7 @@ Reely-Rhino-2-3-Parts
 .stl files for replacement parts of the Reely Rhino 2 and Rhino 3
 
 
+###LICENCE
 
 **You are allowed to download and print all these parts ONLY for personal use!**
 
@@ -11,3 +12,19 @@ Reely-Rhino-2-3-Parts
 
 **(c) 2014 by F<sub>Research</sub> | All rights reserved!**
 
+
+###Parts and Files
+
+1. Transverse link
+   - File: transverse link_v0.4.stl
+   - Newest Version: 0.4
+   - Status: DONE
+   - Tested: NO
+  
+
+2. Bumper
+   - File: bumperv0.4.stl
+   - Newest Version: 0.4
+   - Status: WIP 
+     - searching for a way to absorb most of the 200N (= 75km/h and 2KG Car) on a crash
+   - Tested: YES
