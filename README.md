@@ -30,7 +30,7 @@ Reely-Rhino-2-3-Parts
    - File: bumperv0.4.stl
    - Newest Version: 0.4
    - Status: WIP 
-     - searching for a way to absorb most of the 200N (= 75km/h and 2KG Car) on a crash
+     - searching for a way to absorb most of the 160N (= 75km/h and 1,5KG Car) on a crash
    - Tested: YES
    - Print settings:
        - Infill: 100%
