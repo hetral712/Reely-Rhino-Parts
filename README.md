@@ -18,7 +18,7 @@ Teilweise passen die Teile auch für andere Fahrzeuge von Reely, dies kann über
 
 ###Teile und Dateien
 
-1. Unterer Querlenker(EL347F,EL347R)
+1. Unterer Querlenker(EL347F;EL347R)
    - Datei: transverse_link_v0.4.stl
    - Neuste Version: 0.4
    - Status: FERTIG
@@ -79,7 +79,7 @@ These parts may fit for other Reely RC Cars.
 
 ###Parts and Files
 
-1. Transverse link(EL347F,EL347R)
+1. Transverse link(EL347F;EL347R)
    - File: transverse link_v0.4.stl
    - Newest Version: 0.4
    - Status: DONE
