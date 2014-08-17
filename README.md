@@ -9,7 +9,7 @@ These parts may fit for other Reely RC Cars.
 
 ###LICENCE
 
-**NOTE: This is just a formal translation and is NOT legally valid! ONLY the german orginal licence is legally valid! **
+**NOTE: This is just a formal translation and is NOT legally valid! ONLY the german orginal licence is legally valid!**
 
 **You are allowed to download and print all these parts ONLY for personal use!**
 
@@ -68,9 +68,9 @@ Teilweise passen die Teile auch für andere Fahrzeuge von Reely, dies kann über
 
 ###Lizenz
 
-** Sie haben die Erlaubnis alle .stl Dateien herunterzuladen und für den PRIVATEN Gebrauch zu verwenden**
+**Sie haben die Erlaubnis alle .stl Dateien herunterzuladen und für den PRIVATEN Gebrauch zu verwenden**
 
-** Sie haben NICHT die Erlaubnis diese Dateien weiter zu verbreiten**
+**Sie haben NICHT die Erlaubnis diese Dateien weiter zu verbreiten**
 
 **(c) 2014 F<sub>Research</sub> | Alle Rechte vorbehalten!**
 
