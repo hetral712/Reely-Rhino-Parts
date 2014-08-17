@@ -22,7 +22,7 @@ Teilweise passen die Teile auch für andere Fahrzeuge von Reely, dies kann über
    - Datei: transverse_link_v0.4.stl
    - Neuste Version: 0.4
    - Status: FERTIG
-   - Getestet: <p color="red">NEIN</p>
+   - Getestet: NEIN
    - Druck Einstellungen:
        - Infill: >50%
        - Material: ABS
@@ -83,7 +83,7 @@ These parts may fit for other Reely RC Cars.
    - File: transverse link_v0.4.stl
    - Newest Version: 0.4
    - Status: DONE
-   - Tested: <p color="red">NO</p>
+   - Tested: NO
    - Print settings:
        - Infill: >50%
        - Material: ABS
