@@ -33,7 +33,7 @@ Teilweise passen die Teile auch für andere Fahrzeuge von Reely, dies kann über
    - Datei: bumper_v0.4.stl
    - Neuste Version: 0.4
    - Status: WIP 
-     - searching for a way to absorb most of the 100N (= 50km/h and 1,5KG Car) on a crash
+     - Bricht bei jedem Crash (Testreihe zur Verstärkung wird im Moment durchgeführt)
    - Getestet: JA
    - Druck Einstellungen:
        - Infill: 100%
